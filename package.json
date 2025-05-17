@@ -1,0 +1,17 @@
+{
+  "name": "heap-profiler",
+  "version": "1.0.0",
+  "description": "Plugin for Nitro. Makes memory leak searching more pleasant and harmless",
+  "main": "heap-profiler.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evgeny Arsaev",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.15.18"
+  },
+  "dependencies": {
+    "nitropack": "^2.11.12"
+  }
+}
